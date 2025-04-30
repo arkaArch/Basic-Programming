@@ -1,0 +1,3 @@
+# pyperclip works with 'xcilp', not work with gnome default clipbord in wayland. 
+pyperclip==1.9.0
+
