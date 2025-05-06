@@ -1,3 +1,4 @@
-# pyperclip works with 'xcilp', not work with gnome default clipbord in wayland. 
+PyInputPlus==0.2.12
 pyperclip==1.9.0
-
+PySimpleValidate==0.2.12
+stdiomask==0.0.6
