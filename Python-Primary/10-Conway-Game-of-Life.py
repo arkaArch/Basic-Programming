@@ -6,8 +6,7 @@ If a dead square has exactly three living neighbors, it comes alive on the next 
 
 # Here we take '#' as a living cell and ' ' as a dead cell.
 import random, time, copy
-WIDTH = 60
-HEIGHT = 20     # Capital, since they're constant
+WIDTH, HEIGHT = 60, 20      # Capital, since they're constant
 
 # Create an empty list of list. We append another list 'row' later.
 cells = []               # Think it as a column

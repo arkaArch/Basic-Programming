@@ -19,8 +19,6 @@ void insert(struct Array *a, int position, int element);
 void delete(struct Array *a, int position);
 int linear_search(struct Array *a, int key);
 int binary_search(struct Array *a, int key);
-int linear_search(struct Array *a, int key);
-int binary_search(struct Array *a, int key);
 void reverse_array(struct Array *a);
 void rearrange_negatives(struct Array *a);
 
